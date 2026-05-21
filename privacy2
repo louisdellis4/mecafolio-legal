@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Politique de confidentialité — Mecafolio</title>
+<style>
+  body { font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #14181A; max-width: 760px; margin: 0 auto; padding: 32px 20px; }
+  h1 { font-size: 26px; margin-bottom: 4px; }
+  h2 { font-size: 18px; margin-top: 32px; border-bottom: 2px solid #2ED67A; padding-bottom: 4px; }
+  h3 { font-size: 15px; margin-top: 20px; }
+  .meta { color: #666; font-size: 13px; margin-bottom: 24px; }
+  ul { padding-left: 22px; }
+  li { margin-bottom: 6px; }
+  table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 14px; }
+  th, td { padding: 8px 10px; text-align: left; border: 1px solid #EFEDE7; vertical-align: top; }
+  th { background: #F5F4EF; }
+  .footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid #EFEDE7; color: #666; font-size: 13px; }
+  a { color: #1A8F4E; }
+</style>
+</head>
+<body>
+
+<h1>Politique de confidentialité — Mecafolio</h1>
+<p class="meta">Dernière mise à jour : 21 mai 2026</p>
+
+<p>
+La présente politique de confidentialité décrit comment l'application mobile
+<strong>Mecafolio</strong> (« l'application », « nous ») collecte, utilise, stocke et
+protège vos informations. En utilisant Mecafolio, vous acceptez les pratiques
+décrites dans ce document.
+</p>
+
+<p>
+Mecafolio est une application de suivi d'entretien automobile conçue pour le marché
+français. Elle est pensée selon un principe de <strong>« local-first »</strong> : par
+défaut, vos données sont stockées sur votre appareil et ne sont transmises à des
+serveurs que dans les cas explicitement décrits ci-dessous.
+</p>
+
+<h2>1. Responsable du traitement</h2>
+<p>
+L'application Mecafolio est éditée par un développeur indépendant. Pour toute question
+relative à vos données personnelles, vous pouvez nous contacter à l'adresse indiquée
+en fin de document.
+</p>
+
+<h2>2. Données que nous collectons</h2>
+
+<h3>2.1 Données de compte</h3>
+<p>Lors de la création d'un compte, nous collectons :</p>
+<ul>
+  <li><strong>Adresse e-mail</strong> — utilisée pour identifier votre compte, vous envoyer un message de bienvenue et permettre la réinitialisation de votre mot de passe.</li>
+  <li><strong>Mot de passe</strong> — stocké uniquement sous forme chiffrée (hachage). Nous n'avons jamais accès à votre mot de passe en clair.</li>
+  <li><strong>Prénom et nom</strong>, si vous choisissez de les renseigner.</li>
+</ul>
+
+<h3>2.2 Données relatives à vos véhicules</h3>
+<p>
+Vous pouvez saisir des informations sur vos véhicules et leur utilisation. Ces données
+peuvent inclure : marque, modèle, année, motorisation, kilométrage, plaque
+d'immatriculation, historique des pleins de carburant, interventions d'entretien,
+recharges électriques, péages, frais annexes, photos de factures ou d'interventions,
+et notes personnelles.
+</p>
+<p>
+Ces données sont saisies à votre initiative et stockées localement sur votre appareil.
+</p>
+
+<h3>2.3 Données de localisation</h3>
+<p>
+Avec votre autorisation, l'application accède à votre position géographique afin de
+vous présenter les stations-service et bornes de recharge à proximité, ainsi que les
+prix des carburants pertinents pour votre zone. Votre position n'est pas stockée par
+nous ni associée à votre compte ; elle est utilisée ponctuellement, sur l'appareil,
+pour effectuer ces recherches.
+</p>
+
+<h3>2.4 Photos et appareil photo</h3>
+<p>
+Avec votre autorisation, l'application accède à l'appareil photo et à la galerie pour
+vous permettre de photographier vos tickets de carburant (analyse automatique) et
+d'attacher des photos à vos interventions. Ces images sont stockées localement sur
+votre appareil.
+</p>
+
+<h2>3. Comment nous utilisons vos données</h2>
+<p>Vos données sont utilisées exclusivement pour :</p>
+<ul>
+  <li>Vous fournir les fonctionnalités de l'application (suivi d'entretien, historique, alertes, statistiques).</li>
+  <li>Générer des recommandations d'entretien adaptées à votre véhicule.</li>
+  <li>Analyser automatiquement les tickets de carburant que vous photographiez.</li>
+  <li>Vous envoyer des e-mails liés à votre compte (bienvenue, réinitialisation de mot de passe, réponses à vos retours).</li>
+  <li>Permettre, si vous le décidez, le partage d'un véhicule avec d'autres comptes.</li>
+</ul>
+<p>
+Nous n'utilisons pas vos données à des fins publicitaires. L'application ne contient
+aucune publicité et ne vend aucune donnée.
+</p>
+
+<h2>4. Stockage et synchronisation des données</h2>
+
+<h3>4.1 Stockage local</h3>
+<p>
+Par défaut, toutes vos données sont stockées dans une base de données locale sur votre
+appareil. Elles ne quittent pas votre téléphone tant que vous n'activez pas une
+fonctionnalité de synchronisation.
+</p>
+
+<h3>4.2 Synchronisation cloud (optionnelle)</h3>
+<p>
+Si vous choisissez de <strong>partager un véhicule</strong> avec un autre compte, les
+données de ce véhicule (informations du véhicule, pleins, interventions, entretiens,
+frais) sont transmises et stockées sur notre infrastructure cloud afin de permettre la
+synchronisation entre les comptes concernés. Cette fonctionnalité est strictement
+facultative et ne s'active que sur votre action explicite.
+</p>
+
+<h3>4.3 Sauvegarde (optionnelle)</h3>
+<p>
+Si vous utilisez une fonctionnalité de sauvegarde, les données concernées sont
+transmises au service de stockage que vous avez choisi, selon les modalités de ce
+service.
+</p>
+
+<h2>5. Services tiers</h2>
+<p>
+Pour fonctionner, l'application fait appel à des services tiers. Chacun ne reçoit que
+les données strictement nécessaires à sa fonction :
+</p>
+
+<table>
+  <tr><th>Service</th><th>Rôle</th><th>Données transmises</th></tr>
+  <tr><td>Supabase</td><td>Hébergement cloud pour le partage de véhicules entre comptes</td><td>Adresse e-mail, données des véhicules partagés</td></tr>
+  <tr><td>Anthropic (Claude)</td><td>Analyse des tickets de carburant et recommandations d'entretien</td><td>Image du ticket ; marque, modèle, année du véhicule</td></tr>
+  <tr><td>Google (Gemini)</td><td>Analyse de secours des tickets de carburant</td><td>Image du ticket ; marque, modèle, année du véhicule</td></tr>
+  <tr><td>Resend</td><td>Envoi des e-mails (bienvenue, réinitialisation de mot de passe, retours)</td><td>Adresse e-mail</td></tr>
+  <tr><td>data.economie.gouv.fr</td><td>Prix officiels des carburants et bornes de recharge</td><td>Coordonnées de localisation approximatives (aucune donnée de compte)</td></tr>
+  <tr><td>OpenStreetMap</td><td>Recherche de stations et bornes (secours international)</td><td>Coordonnées de localisation approximatives (aucune donnée de compte)</td></tr>
+  <tr><td>NHTSA</td><td>Décodage du numéro d'identification de véhicule (VIN)</td><td>Numéro VIN saisi</td></tr>
+  <tr><td>Google Maps</td><td>Affichage cartographique des stations</td><td>Coordonnées de localisation</td></tr>
+</table>
+
+<p>
+Aucune photo de ticket n'est conservée par les services d'analyse au-delà du traitement
+de la demande. Nous vous invitons à consulter les politiques de confidentialité
+respectives de ces prestataires pour connaître leurs pratiques.
+</p>
+
+<h2>6. Partage de vos données</h2>
+<p>
+Nous ne vendons pas, ne louons pas et n'échangeons pas vos données personnelles.
+Vos données ne sont partagées que dans les cas suivants :
+</p>
+<ul>
+  <li>Avec les services tiers listés ci-dessus, dans la stricte mesure nécessaire au fonctionnement de l'application.</li>
+  <li>Avec les autres comptes auxquels vous avez vous-même choisi de partager un véhicule.</li>
+  <li>Si la loi l'exige, dans le cadre d'une obligation légale.</li>
+</ul>
+
+<h2>7. Conservation des données</h2>
+<p>
+Vos données locales sont conservées sur votre appareil tant que l'application est
+installée. La désinstallation de l'application supprime les données stockées
+localement. Les données synchronisées dans le cloud (véhicules partagés) sont
+conservées tant que le partage est actif. Vous pouvez demander la suppression de
+votre compte et des données associées en nous contactant.
+</p>
+
+<h2>8. Sécurité</h2>
+<p>
+Nous mettons en œuvre des mesures raisonnables pour protéger vos données : les mots de
+passe sont chiffrés, les communications avec nos serveurs sont chiffrées (HTTPS), et
+l'accès aux données cloud est restreint. Aucun système n'étant infaillible, nous ne
+pouvons toutefois garantir une sécurité absolue.
+</p>
+
+<h2>9. Vos droits</h2>
+<p>
+Conformément au Règlement général sur la protection des données (RGPD), vous disposez
+des droits suivants concernant vos données personnelles :
+</p>
+<ul>
+  <li><strong>Droit d'accès</strong> — obtenir une copie des données vous concernant.</li>
+  <li><strong>Droit de rectification</strong> — corriger des données inexactes.</li>
+  <li><strong>Droit à l'effacement</strong> — demander la suppression de vos données.</li>
+  <li><strong>Droit à la limitation</strong> et <strong>droit d'opposition</strong> au traitement.</li>
+  <li><strong>Droit à la portabilité</strong> — la plupart de vos données peuvent être exportées directement depuis l'application (export PDF, export de fichier).</li>
+</ul>
+<p>
+Pour exercer ces droits, contactez-nous à l'adresse indiquée ci-dessous. Vous avez
+également le droit d'introduire une réclamation auprès de la Commission nationale de
+l'informatique et des libertés (CNIL).
+</p>
+
+<h2>10. Enfants</h2>
+<p>
+Mecafolio n'est pas destinée aux personnes de moins de 18 ans et ne collecte pas
+sciemment de données concernant des mineurs.
+</p>
+
+<h2>11. Modifications de cette politique</h2>
+<p>
+Nous pouvons mettre à jour cette politique de confidentialité. Toute modification sera
+publiée sur cette page avec une date de mise à jour actualisée. Nous vous invitons à
+la consulter régulièrement.
+</p>
+
+<h2>12. Contact</h2>
+<p>
+Pour toute question concernant cette politique ou vos données personnelles, vous pouvez
+nous écrire à :
+</p>
+<p><strong>louisdellis4@gmail.com</strong></p>
+
+<div class="footer">
+  <p>Mecafolio — Application de suivi d'entretien automobile.<br />
+  Cette politique de confidentialité est applicable à compter du 21 mai 2026.</p>
+</div>
+
+</body>
+</html>
